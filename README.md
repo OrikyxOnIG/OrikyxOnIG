@@ -17,5 +17,6 @@ I am a 18 year old from Illinois and also the creator of [Orikyx DevSec Hub](htt
 
 
 
+![Custom SVG](https://orikyxonig.github.io/my-svg/assets/languages.svg)
 
 
