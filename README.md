@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bryson aka Orikyx!
 
-<!--
-**OrikyxOnIG/OrikyxOnIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming and Cybersecurity. Here are the languages I work with:
 
-Here are some ideas to get you started:
+- Python
+- JavaScript
+- C++
+- HTML/CSS
+- Golang
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a 18 year old from Illinois and also the creator of [Orikyx DevSec Hub](https://orikyxonig.github.io) where I teach people programming and cybersecurity.
+
+
